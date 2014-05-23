@@ -1,0 +1,50 @@
+<!--
+	Ha a scan attribútum értékét "true"-ra módosítjuk, akkor a Logback
+	percenként ellenőrzi, hogy változott-e a konfigurációs állomány.
+	Változás esetén megfelelően igazítja hozzá a beállításokat. Az állomány
+	így akár futásidőben is módosítható.
+-->
+<configuration scan="false">
+
+	<!-- A konzolon minden eseményt naplózunk -->
+	<appender name="ALL" class="ch.qos.logback.core.FileAppender">
+		<file>messages.log</file>
+		<append>true</append>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="INFO" class="ch.qos.logback.core.FileAppender">
+		<file>info.log</file>
+		<append>false</append>
+		<filter class="ch.qos.logback.classic.filter.LevelFilter">
+			<level>INFO</level>
+			<onMatch>ACCEPT</onMatch>
+			<onMismatch>DENY</onMismatch>
+		</filter>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<appender name="WARNANDERR" class="ch.qos.logback.core.FileAppender">
+		<file>Errors.log</file>
+		<append>true</append>
+		<filter class="ch.qos.logback.classic.filter.ThresholdFilter">
+			<level>WARN</level>
+		</filter>
+		<encoder>
+			<pattern>%d{HH:mm:ss.SSS} %-5level %logger{36} - %msg%n</pattern>
+		</encoder>
+	</appender>
+
+	<root level="ALL">
+		<appender-ref ref="WARNANDERR"/>
+		<appender-ref ref="ALL"/>
+		<appender-ref ref="INFO"/>
+	</root>
+
+	<logger name="main.Main" level="ALL" additivity="true"/>
+
+</configuration>
