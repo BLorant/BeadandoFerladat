@@ -1,23 +1,101 @@
-17:49:41.161 INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
-17:49:41.172 INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.5.Final}
-17:49:41.174 INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
-17:49:41.176 INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
-17:49:41.208 INFO  org.hibernate.cfg.Configuration - HHH000043: Configuring from resource: /hibernate.cfg.xml
-17:49:41.208 INFO  org.hibernate.cfg.Configuration - HHH000040: Configuration resource: /hibernate.cfg.xml
-17:49:41.324 INFO  org.hibernate.cfg.Configuration - HHH000041: Configured SessionFactory: null
-17:49:41.628 INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000401: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@db.inf.unideb.hu:1521:ora11g]
-17:49:41.628 INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000046: Connection properties: {user=H_JA8LA1, password=kassai}
-17:49:41.628 INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000006: Autocommit mode: false
-17:49:41.630 INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
-17:49:42.167 INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.OracleDialect
-17:49:42.394 INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
-17:49:42.400 INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
-17:49:42.465 INFO  org.hibernate.validator.util.Version - Hibernate Validator 4.2.0.Final
-17:49:42.907 INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
-17:49:42.907 INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000102: Fetching database metadata
-17:49:42.932 INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000396: Updating schema
-17:49:43.196 INFO  o.h.tool.hbm2ddl.TableMetadata - HHH000261: Table found: H_JA8LA1.ITEM
-17:49:43.196 INFO  o.h.tool.hbm2ddl.TableMetadata - HHH000037: Columns: [id, price, description, name, quantity]
-17:49:43.196 INFO  o.h.tool.hbm2ddl.TableMetadata - HHH000108: Foreign keys: []
-17:49:43.197 INFO  o.h.tool.hbm2ddl.TableMetadata - HHH000126: Indexes: [sys_c0088879]
-17:49:43.197 INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000232: Schema update complete
+23:39:05.150 INFO  o.h.annotations.common.Version - HCANN000001: Hibernate Commons Annotations {4.0.4.Final}
+23:39:05.158 INFO  org.hibernate.Version - HHH000412: Hibernate Core {4.3.5.Final}
+23:39:05.160 INFO  org.hibernate.cfg.Environment - HHH000206: hibernate.properties not found
+23:39:05.162 INFO  org.hibernate.cfg.Environment - HHH000021: Bytecode provider name : javassist
+23:39:05.185 INFO  org.hibernate.cfg.Configuration - HHH000043: Configuring from resource: /hibernate.cfg.xml
+23:39:05.185 INFO  org.hibernate.cfg.Configuration - HHH000040: Configuration resource: /hibernate.cfg.xml
+23:39:05.254 INFO  org.hibernate.cfg.Configuration - HHH000041: Configured SessionFactory: null
+23:39:05.458 INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000401: using driver [oracle.jdbc.driver.OracleDriver] at URL [jdbc:oracle:thin:@db.inf.unideb.hu:1521:ora11g]
+23:39:05.459 INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000046: Connection properties: {user=H_JA8LA1, password=kassai}
+23:39:05.459 INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000006: Autocommit mode: false
+23:39:05.461 INFO  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:39:05.964 INFO  org.hibernate.dialect.Dialect - HHH000400: Using dialect: org.hibernate.dialect.OracleDialect
+23:39:06.131 INFO  o.h.e.t.i.TransactionFactoryInitiator - HHH000399: Using default transaction strategy (direct JDBC transactions)
+23:39:06.137 INFO  o.h.h.i.a.ASTQueryTranslatorFactory - HHH000397: Using ASTQueryTranslatorFactory
+23:39:06.191 INFO  org.hibernate.validator.util.Version - Hibernate Validator 4.2.0.Final
+23:39:06.559 INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000228: Running hbm2ddl schema update
+23:39:06.559 INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000102: Fetching database metadata
+23:39:06.584 INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000396: Updating schema
+23:39:06.834 INFO  o.h.tool.hbm2ddl.TableMetadata - HHH000261: Table found: H_JA8LA1.ITEM
+23:39:06.834 INFO  o.h.tool.hbm2ddl.TableMetadata - HHH000037: Columns: [id, price, description, name, quantity]
+23:39:06.834 INFO  o.h.tool.hbm2ddl.TableMetadata - HHH000108: Foreign keys: []
+23:39:06.834 INFO  o.h.tool.hbm2ddl.TableMetadata - HHH000126: Indexes: [sys_c0088879]
+23:39:06.834 INFO  o.h.tool.hbm2ddl.SchemaUpdate - HHH000232: Schema update complete
+23:39:07.139 INFO  main.Main - An item modified in the database
+23:39:07.179 INFO  main.Main - An item modified in the database
+23:39:07.233 INFO  main.Main - An item modified in the database
+23:39:07.277 INFO  main.Main - An item modified in the database
+23:39:07.323 INFO  main.Main - An item modified in the database
+23:39:07.365 INFO  main.Main - An item modified in the database
+23:39:07.382 INFO  main.Main - An item modified in the database
+23:39:07.401 INFO  main.Main - An item modified in the database
+23:39:07.414 INFO  main.Main - An item modified in the database
+23:39:07.427 INFO  main.Main - An item modified in the database
+23:39:07.439 INFO  main.Main - An item modified in the database
+23:39:07.498 INFO  main.Main - An item modified in the database
+23:39:07.539 INFO  main.Main - An item modified in the database
+23:39:07.552 INFO  main.Main - An item modified in the database
+23:39:07.565 INFO  main.Main - An item modified in the database
+23:39:07.578 INFO  main.Main - An item modified in the database
+23:39:07.596 INFO  main.Main - An item modified in the database
+23:39:07.610 INFO  main.Main - An item modified in the database
+23:39:07.665 INFO  main.Main - An item modified in the database
+23:39:07.703 INFO  main.Main - An item modified in the database
+23:39:07.743 INFO  main.Main - An item modified in the database
+23:39:07.756 INFO  main.Main - An item modified in the database
+23:39:07.803 INFO  main.Main - An item modified in the database
+23:39:07.845 INFO  main.Main - An item modified in the database
+23:39:07.893 INFO  main.Main - An item modified in the database
+23:39:07.908 INFO  main.Main - An item modified in the database
+23:39:07.920 INFO  main.Main - An item modified in the database
+23:39:07.977 INFO  main.Main - An item modified in the database
+23:39:08.019 INFO  main.Main - An item modified in the database
+23:39:08.061 INFO  main.Main - An item modified in the database
+23:39:08.134 INFO  main.Main - A bill has been saved
+23:39:08.217 INFO  main.Main - An item modified in the database
+23:39:08.260 INFO  main.Main - An item modified in the database
+23:39:08.296 INFO  main.Main - An item modified in the database
+23:39:08.308 INFO  main.Main - An item modified in the database
+23:39:08.322 INFO  main.Main - An item modified in the database
+23:39:08.338 INFO  main.Main - An item modified in the database
+23:39:08.392 INFO  main.Main - An item modified in the database
+23:39:08.428 INFO  main.Main - An item modified in the database
+23:39:08.469 INFO  main.Main - An item modified in the database
+23:39:08.511 INFO  main.Main - An item modified in the database
+23:39:08.547 INFO  main.Main - An item modified in the database
+23:39:08.589 INFO  main.Main - An item modified in the database
+23:39:08.602 INFO  main.Main - An item modified in the database
+23:39:08.616 INFO  main.Main - An item modified in the database
+23:39:08.628 INFO  main.Main - An item modified in the database
+23:39:08.640 INFO  main.Main - An item modified in the database
+23:39:08.652 INFO  main.Main - An item modified in the database
+23:39:08.665 INFO  main.Main - An item modified in the database
+23:39:08.716 INFO  main.Main - An item modified in the database
+23:39:08.757 INFO  main.Main - An item modified in the database
+23:39:08.793 INFO  main.Main - An item modified in the database
+23:39:08.835 INFO  main.Main - An item modified in the database
+23:39:08.849 INFO  main.Main - An item modified in the database
+23:39:08.861 INFO  main.Main - An item modified in the database
+23:39:08.873 INFO  main.Main - An item modified in the database
+23:39:08.885 INFO  main.Main - An item modified in the database
+23:39:08.898 INFO  main.Main - An item modified in the database
+23:39:08.955 INFO  main.Main - An item modified in the database
+23:39:08.991 INFO  main.Main - An item modified in the database
+23:39:09.034 INFO  main.Main - An item modified in the database
+23:39:09.069 INFO  main.Main - An item modified in the database
+23:39:09.105 INFO  main.Main - An item modified in the database
+23:39:09.118 INFO  main.Main - An item modified in the database
+23:39:09.154 INFO  main.Main - An item modified in the database
+23:39:09.166 INFO  main.Main - An item modified in the database
+23:39:09.179 INFO  main.Main - An item modified in the database
+23:39:09.194 INFO  main.Main - An item modified in the database
+23:39:09.210 INFO  main.Main - An item modified in the database
+23:39:09.261 INFO  main.Main - An item modified in the database
+23:39:09.297 INFO  main.Main - An item modified in the database
+23:39:09.335 INFO  main.Main - An item modified in the database
+23:39:09.376 INFO  main.Main - An item modified in the database
+23:39:09.419 INFO  main.Main - An item modified in the database
+23:39:09.471 INFO  main.Main - An item modified in the database
+23:39:09.483 INFO  main.Main - An item modified in the database
+23:39:09.498 INFO  main.Main - An item modified in the database
+23:39:09.510 INFO  main.Main - An item modified in the database

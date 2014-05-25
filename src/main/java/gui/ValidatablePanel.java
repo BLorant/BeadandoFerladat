@@ -2,6 +2,11 @@ package gui;
 
 import javax.swing.JPanel;
 
+/**
+ * A felugró ablakokhoz használt panel.
+ * @author Lorant
+ *
+ */
 public abstract class ValidatablePanel extends JPanel  {
     private String validationMassage = "";
 

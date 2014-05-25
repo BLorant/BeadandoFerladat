@@ -42,3 +42,362 @@
 17:49:41.514 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
 17:49:42.176 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
 17:49:42.177 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+13:04:01.556 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+13:04:01.734 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+13:04:03.899 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+13:04:03.901 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+13:21:05.467 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+13:21:05.627 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+13:21:08.788 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+13:21:08.790 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+13:45:55.554 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+13:45:55.725 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+13:45:58.578 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+13:45:58.580 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+13:46:40.820 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+13:46:40.984 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+13:46:43.542 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+13:46:43.543 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+13:46:56.218 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+13:46:56.387 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+13:46:58.577 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+13:46:58.579 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+14:16:35.812 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+14:16:36.006 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+14:16:52.680 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+14:16:52.682 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+14:31:54.031 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+14:31:54.193 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+14:31:56.996 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+14:31:56.998 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+14:35:45.661 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+14:35:45.833 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+14:35:47.623 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+14:35:47.625 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+15:27:04.087 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+15:27:04.289 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+15:27:08.864 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+15:27:08.866 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+15:31:46.727 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+15:31:46.923 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+15:31:55.091 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+15:31:55.093 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+15:37:34.993 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+15:37:35.217 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+15:37:40.113 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+15:37:40.115 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+15:37:52.079 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+15:37:52.232 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+15:37:57.246 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+15:37:57.248 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+15:41:02.552 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+15:41:02.695 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+15:41:10.402 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+15:41:10.404 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+16:10:57.466 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+16:10:57.708 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16:11:20.099 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+16:11:20.102 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+16:11:33.447 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+16:11:33.620 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16:11:40.153 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+16:11:40.155 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+16:47:07.791 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+16:47:08.054 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16:47:20.556 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+16:47:20.558 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+16:47:31.038 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+16:47:31.199 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16:47:35.584 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+16:47:35.586 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+16:59:06.753 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+16:59:07.043 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16:59:07.395 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+16:59:07.645 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+16:59:21.434 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+16:59:21.435 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+16:59:21.958 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+16:59:21.959 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+17:22:09.661 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+17:22:09.785 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+17:22:17.391 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+17:22:17.392 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+18:52:48.841 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+18:52:49.358 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+18:53:18.918 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+18:53:19.324 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+20:57:45.950 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+20:57:46.150 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+20:57:46.984 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+20:57:46.986 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:00:26.780 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:00:26.905 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:00:27.540 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:00:27.542 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:02:05.944 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:02:06.061 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:02:06.688 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:02:06.689 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:02:46.899 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:02:47.020 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:02:47.662 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:02:47.663 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:03:08.148 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:03:08.280 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:03:08.888 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:03:08.891 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:26:57.758 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:26:57.924 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:26:58.554 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:26:58.555 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:30:03.308 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:30:03.467 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:30:04.075 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:30:04.076 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:30:26.035 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:30:26.187 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:30:26.778 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:30:26.780 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:35:30.330 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:35:30.501 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:35:31.099 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:35:31.100 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:39:06.421 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:39:06.593 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:39:07.176 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:39:07.178 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:40:38.395 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:40:38.525 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:40:39.305 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:40:39.307 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:41:22.469 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:41:22.622 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:41:23.294 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:41:23.295 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:42:27.107 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:42:27.261 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:42:27.912 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:42:27.914 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:42:45.144 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:42:45.270 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:42:45.880 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:42:45.882 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:43:30.028 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:43:30.154 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:43:30.828 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:43:30.830 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:43:43.038 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:43:43.168 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:43:43.847 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:43:43.848 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:45:10.755 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:45:10.933 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:45:11.558 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:45:11.559 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:46:13.911 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:46:14.085 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:46:14.742 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:46:14.743 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:47:23.765 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:47:23.939 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:47:24.588 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:47:24.590 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:49:11.773 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:49:11.970 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:49:12.604 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:49:12.606 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:53:48.251 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:53:48.415 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:53:49.064 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:53:49.065 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:56:00.601 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:56:00.756 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:56:01.370 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:56:01.371 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+21:58:14.067 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+21:58:14.221 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+21:58:14.931 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+21:58:14.933 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:02:45.351 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:02:45.517 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:02:46.152 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:02:46.154 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:03:05.493 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:03:05.680 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:03:06.276 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:03:06.278 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:15:51.139 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:15:51.265 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:15:51.908 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:15:51.909 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:24:07.093 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:24:07.287 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:24:08.487 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:24:08.489 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:27:08.777 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:27:08.930 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:27:10.100 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:27:10.101 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:28:03.556 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:28:03.716 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:28:04.694 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:28:04.695 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:28:37.661 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:28:37.811 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:28:38.701 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:28:38.703 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:29:06.908 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:29:07.102 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:29:07.898 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:29:07.899 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:29:32.699 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:29:32.823 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:29:33.629 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:29:33.631 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:30:45.829 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:30:45.990 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:30:46.741 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:30:46.743 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:31:04.587 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:31:04.764 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:31:05.657 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:31:05.659 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:31:35.395 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:31:35.516 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:31:36.473 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:31:36.475 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:32:08.106 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:32:08.254 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:32:08.956 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:32:08.958 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:33:18.735 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:33:18.889 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:33:19.506 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:33:19.507 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:33:25.459 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:33:25.629 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:33:26.221 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:33:26.223 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:33:32.032 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:33:32.183 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:33:32.787 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:33:32.788 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:33:43.813 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:33:43.970 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:33:44.569 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:33:44.571 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:33:50.928 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:33:51.051 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:33:51.644 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:33:51.645 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:34:15.403 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:34:15.559 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:34:16.143 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:34:16.145 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:34:21.395 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:34:21.520 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:34:22.159 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:34:22.160 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:37:33.344 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:37:33.483 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:37:34.165 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:37:34.167 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:39:25.388 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:39:25.554 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:39:26.838 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:39:26.839 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:39:37.652 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:39:37.780 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:39:39.276 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:39:39.278 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:40:06.367 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:40:06.539 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:40:07.179 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:40:07.182 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:40:13.935 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:40:14.065 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:40:14.774 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:40:14.776 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:40:24.010 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:40:24.191 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:40:25.012 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:40:25.014 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:40:31.433 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:40:31.565 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:40:32.329 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:40:32.330 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:42:53.324 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:42:53.491 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:42:54.090 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:42:54.092 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+22:47:10.432 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+22:47:10.614 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+22:47:11.843 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+22:47:11.845 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:08:52.672 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:08:52.793 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:08:53.415 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:08:53.417 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:09:14.698 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:09:14.839 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:09:15.437 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:09:15.439 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:09:20.547 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:09:20.671 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:09:21.282 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:09:21.284 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:10:50.327 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:10:50.452 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:10:51.086 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:10:51.087 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:11:11.645 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:11:11.803 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:11:12.422 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:11:12.423 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:11:19.619 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:11:19.747 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:11:20.424 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:11:20.426 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:12:41.537 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:12:41.661 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:13:57.365 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:13:57.491 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:14:28.157 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:14:28.282 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:14:41.368 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:14:41.490 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:15:43.050 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:15:43.175 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:16:05.211 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:16:05.336 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:17:46.986 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:17:47.108 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:18:14.059 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:18:14.181 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:18:25.265 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:18:25.406 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:18:41.258 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:18:41.395 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:23:38.578 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:23:38.745 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:23:40.806 ERROR dbConnection.ItemDAO - Cant connect to database
+23:23:46.801 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:23:46.973 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:23:47.765 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:23:47.767 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:30:22.937 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:30:23.150 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:30:24.154 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:30:24.157 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:30:32.595 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:30:32.746 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:30:34.020 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:30:34.022 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:38:57.826 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:38:57.999 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:38:58.646 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:38:58.648 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead
+23:39:05.223 WARN  o.h.i.util.xml.DTDEntityResolver - HHH000223: Recognized obsolete hibernate namespace http://hibernate.sourceforge.net/. Use namespace http://www.hibernate.org/dtd/ instead. Refer to Hibernate 3.6 Migration Guide!
+23:39:05.366 WARN  o.h.e.j.c.i.DriverManagerConnectionProviderImpl - HHH000402: Using Hibernate built-in connection pool (not for production use!)
+23:39:05.971 WARN  org.hibernate.dialect.Oracle9Dialect - HHH000063: The Oracle9Dialect dialect has been deprecated; use either Oracle9iDialect or Oracle10gDialect instead
+23:39:05.973 WARN  org.hibernate.dialect.OracleDialect - HHH000064: The OracleDialect dialect has been deprecated; use Oracle8iDialect instead

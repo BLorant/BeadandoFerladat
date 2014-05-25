@@ -11,12 +11,27 @@ import javax.persistence.Transient;
  */
 @ Entity
 public class Item {
+	/**
+	 * Az adatbázisban az elsődleges kulcs és programon belül is ezt használjuk pontos azonosításra.
+	 */
 	@Id
 	@GeneratedValue
 	private int id;
+	/**
+	 * Az item neve.
+	 */
 	private String name;
+	/**
+	 * Az adoot itemből a mennyiség tárolása.
+	 */
 	private int quantity;
+	/**
+	 * Az adott item ára darabonként.
+	 */
 	private int price;
+	/**
+	 * egy általános leírás az itemről.
+	 */
 	private String description;
 	
 	public void setId(int id) {
@@ -30,8 +45,11 @@ public class Item {
 		result = prime * result + id;
 		return result;
 	}
+
 	/**
-	 * equals flülírva ,hogy csak az id alapján hasonlítsa össze a példányokat.
+	 * Az Equals felülírva ,hogy az id alapján hasonlítsa össze a példányokat.
+	 * @param obj az összehasonlítani kívánt objektum.
+	 * @return true ha megeggyezik a két objektum false ha nem.
 	 */
 	@Override
 	public boolean equals(Object obj) {
@@ -47,10 +65,15 @@ public class Item {
 		return true;
 	}
 
+	/**
+	 * Az adott item mennyiségének megváltoztatása.
+	 * @param n a csökkentés vagy növelés mennyisége. negatív szám esetén csökkentünk.
+	 */
 	public void changeQuantity(int n){
 		quantity=quantity+n;
 	}
 	
+
 	public int getId() {
 		return id;
 	}
@@ -79,16 +102,31 @@ public class Item {
 		this.description = description;
 	}
 
+	/**
+	 * Egy toString amit a felugró ablakok használnak az itemek kiiratására.
+	 * @return az adattagok értéke sztriggé fűzve.
+	 */
 	public String toString2() {
 		return "id=" + id + ", name=" + name + ", quantity=" + quantity
 				+ ", price=" + price ;
 	}
 	
+	/**
+	 * Csak az item neve amit a listában való kiiratáshoz használok.
+	 * @return az adattagok értéke sztriggé fűzve.
+	 */
 	@Override
 	public String toString() {
 		return name;
 	}
 
+	/**
+	 * Konstruktor az adattagok megadásával.
+	 * @param name név
+	 * @param quantity mennyiség
+	 * @param price  ár
+	 * @param description leírás
+	 */
 	public Item(String name, int quantity, int price, String description) {
 		super();
 		this.name = name;
@@ -97,7 +135,19 @@ public class Item {
 		this.description = description;
 	}
 
+	/**
+	 * Alap konstruktor "üress" item létrehozásához.
+	 */
 	public Item() {
+	}
+
+	public Item(int id, String name, int quantity, int price, String description) {
+		super();
+		this.id = id;
+		this.name = name;
+		this.quantity = quantity;
+		this.price = price;
+		this.description = description;
 	}
 
 	

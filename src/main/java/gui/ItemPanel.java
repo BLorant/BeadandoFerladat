@@ -9,7 +9,11 @@ import javax.swing.JTextField;
 
 import model.Item;
 
-
+/**
+ * Az Itemek létrehozásához és karbantartásához használt felugró ablak.
+ * @author Lorant
+ *
+ */
 public class ItemPanel extends ValidatablePanel {
 	
 	private JTextField nameTextField;

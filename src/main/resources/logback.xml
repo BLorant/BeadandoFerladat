@@ -45,6 +45,4 @@
 		<appender-ref ref="INFO"/>
 	</root>
 
-	<logger name="main.Main" level="ALL" additivity="true"/>
-
 </configuration>

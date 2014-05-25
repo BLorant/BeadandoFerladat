@@ -33,20 +33,43 @@ public class Main {
 	/**
 	 * Az adatbázis hozzáféréséhez használatos objektum.
 	 */
-	private static ItemDAO itemDAO = ItemDAO.getInstance();
+	private static ItemDAO itemDAO ;
 	
+	/**
+	 * A mappa ahol tárolni szeretnénk a mentésrekerülő számlákat.
+	 */
 	public static String billpath="bills\\";
 	
-	private static int total=0;
-
 	/**
-	 * The main method 
+	 * Az aktuális fizetendő végösszeg.
+	 */
+	private static int total=0;
+	
+	/**
+	 * A fő ablaknak egy példánya.
+	 */
+	private static MainFrame frame;
+
+	
+	
+	static{
+		itemDAO = ItemDAO.getInstance();
+		itemList = itemDAO.getAllItems();
+	}
+	/**
+	 * A main metódus.
+	 * felállítja a guit
+	 * <pre>
+	 * <code>
+	 * frame = new MainFrame();
+	 * </code>
+	 * </pre>
 	 * @param args paranccsori argumentumok
 	 */
 	public static void main(String[] args) {
 		
-		itemList = itemDAO.getAllItems();
-		MainFrame frame = new MainFrame();
+		
+		frame = new MainFrame();
 		logger.info("System started");
 	}
 
@@ -76,6 +99,30 @@ public class Main {
 
 	/**
 	 * Egy item táblához hozzáadásáért felelős.
+	 * A totalhoz hozzáadja ennek a vásárlásnak az értékét.
+	 * <pre>
+	 * <code>
+	 * total = (getTotal() + item.getPrice() * quantity);
+	 * </code>
+	 * </pre>
+	 * Létrehoz egy új 2 dimenziós tömböt ami eggyel nagyobb mint az eddigi.
+	 * Feltölti az előző táblaadatokkal és utolsó elemnek pedig berakja az új elemet,
+	 * majd kicseréli a régi referenciát az ujra újakkal.
+	 * <pre>
+	 * <code>
+	 * Object[][] temp = new Object[datalength + 1][5];
+		if (tableData != null)
+			for (int i = 0; i < datalength; i++)
+				for (int j = 0; j < 5; j++)
+					temp[i][j] = tableData[i][j];
+		temp[datalength][0] = item.getId();
+		temp[datalength][1] = item.getName();
+		temp[datalength][2] = quantity;
+		temp[datalength][3] = item.getPrice();
+		temp[datalength][4] = item.getDescription();
+		tableData = temp;
+	 * </code>
+	 * </pre>
 	 * @param item a hozzáadni kívánt item.
 	 * @param quantity a számlához adni kívánt mennyiség.
 	 * @throws NullPointerException Ha item paraméter null.
@@ -85,6 +132,7 @@ public class Main {
 		if (item.getQuantity() >= quantity) {
 		total = (getTotal() + item.getPrice() * quantity);
 		item.changeQuantity(-quantity);
+		modifyItem(item);
 		int datalength = (tableData == null ? 0 : tableData.length);
 		Object[][] temp = new Object[datalength + 1][5];
 		if (tableData != null)
@@ -163,10 +211,12 @@ public class Main {
 	
 	/**
 	 * Egy számla lementése xml dokumentumként.
+	 * @return visszaadja a pontos elérési utat a mentett fájlhoz.
 	 */
-	public static void saveBill(){
-		xmlWriter.XMLHandler.writeBill(tableData);
+	public static String saveBill(){
+		String path = xmlHandler.XMLHandler.writeBill(tableData);
 		logger.info("A bill has been saved");
+		return path;
 	}
 	
 	/**
@@ -174,7 +224,7 @@ public class Main {
 	 * @param path a betülte kívánt számla elérési útvonala.
 	 */
 	public static void loadBill(String path){
-		tableData=xmlWriter.XMLHandler.readXML(path);
+		tableData=xmlHandler.XMLHandler.readXML(path);
 		total=0;
 		for (int i=0;i<tableData.length;i++){
 			total+=(Integer)(tableData[i][2])*(Integer)(tableData[i][3]);
@@ -184,6 +234,10 @@ public class Main {
 
 	public static int getTotal() {
 		return total;
+	}
+
+	public static MainFrame getFrame() {
+		return frame;
 	}
 
 

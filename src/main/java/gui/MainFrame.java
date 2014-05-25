@@ -45,6 +45,11 @@ import javax.swing.SwingConstants;
 import java.awt.Component;
 import java.io.File;
 
+/**
+ * Ez a program fő ablaka. Minden komponens erre van illesztve a felugró ablakok kivételével
+ * @author Lorant
+ *
+ */
 public class MainFrame extends JFrame implements ActionListener {
 
 	private JPanel contentPane;
@@ -81,6 +86,16 @@ public class MainFrame extends JFrame implements ActionListener {
 			list.setModel(listModel);
 	}
 
+	public void showWarning(String msg){		
+			JOptionPane.showMessageDialog(null, msg,
+					"Warning", JOptionPane.WARNING_MESSAGE);
+	}
+	
+	public void showError(String msg){		
+		JOptionPane.showMessageDialog(null, msg,
+				"Error", JOptionPane.ERROR_MESSAGE);
+}
+	
 	private void refreshList() {
 		DefaultListModel<Item> listModel = new DefaultListModel<Item>();
 		ArrayList<Item> items = (ArrayList<Item>) Main.getItemList();
@@ -343,7 +358,9 @@ public class MainFrame extends JFrame implements ActionListener {
 		}
 
 		if (e.getSource() == saveBill) {
-			Main.saveBill();
+			String path = Main.saveBill();
+			JOptionPane.showMessageDialog(null, "The bill has been saved to: \n"+path,
+					"Info", JOptionPane.INFORMATION_MESSAGE);
 			Main.clearTable();
 			refreshTable();
 		}
